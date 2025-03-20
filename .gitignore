@@ -1,8 +1,10 @@
-AppData/
 Application Data/
 Cookies/
-Documents/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
 Local Settings/
-*.ini
-*.LOG*
-*.jtx
+AppData/
+NTUSER.*
+ntuser.*
+
